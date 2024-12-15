@@ -1,8 +1,8 @@
-## Hi, I'm Jared!
+## Hi, I'm Karl!
 
 An IT student trying to learn programming.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karl2522&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karl2522&show_icons=true&theme=tokyonight)
 
 <!--
 **karl2522/karl2522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
