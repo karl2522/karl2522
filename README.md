@@ -2,7 +2,7 @@
 
 An IT student trying to learn programming.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karl2522&count_private=true&show_icons=true&theme=tokyonights)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karl2522&count_private=true&show_icons=true&theme=tokyonight)
 
 
 
