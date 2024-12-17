@@ -30,12 +30,12 @@
 ## 🤝 Connect With Me
 <div align="center">
   <a href="https://github.com/karl2522">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40" style="filter: invert(1);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40";" />
   </a>
   <a href="https://www.facebook.com/in/jaredkarl2">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" alt="LinkedIn" width="40" height="40" style="filter: invert(1);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" alt="LinkedIn" width="40" height="40";" />
   </a>
   <a href="https://twitter.com/jaerhead">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" alt="Twitter" width="40" height="40" style="filter: invert(1);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" alt="Twitter" width="40" height="40";" />
   </a>
 </div>
