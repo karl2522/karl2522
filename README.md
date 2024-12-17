@@ -37,5 +37,5 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kar12522&color=blueviolet&style=plastic&label=" alt="Profile Views Logo" />
+  <img src="https://komarev.com/ghpvc/?username=kar12522&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
 </div>
