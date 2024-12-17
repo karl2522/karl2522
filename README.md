@@ -39,6 +39,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/jaerhead">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="X" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="40" width="40" />
   </a>
 </div>
