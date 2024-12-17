@@ -39,3 +39,23 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" alt="Twitter" width="40" height="40" style="fill: #1DA1F2;" />
   </a>
 </div>
+
+<style>
+a:hover {
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+/* Individual icon colors */
+a:nth-child(1) img {
+  filter: invert(7%) sepia(14%) saturate(112%) hue-rotate(314deg) brightness(95%) contrast(93%);
+}
+
+a:nth-child(2) img {
+  filter: invert(37%) sepia(98%) saturate(2418%) hue-rotate(206deg) brightness(98%) contrast(98%);
+}
+
+a:nth-child(3) img {
+  filter: invert(48%) sepia(99%) saturate(1650%) hue-rotate(177deg) brightness(99%) contrast(91%);
+}
+</style>
