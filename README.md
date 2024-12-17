@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center" style="background-color: #0d1117; padding: 25px; border-radius: 6px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,django,vite,git,vscode,mysql,androidstudio,postman,intellijultimate" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,django,vite,git,vscode,mysql,androidstudio,postman,intellij" />
 </div>
 
 
