@@ -1,21 +1,48 @@
-## Hi, I'm Karl!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Karl!+👋;IT+Student+%7C+Developer;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
-An IT student trying to be better at programming.
+## 👨‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karl2522&count_private=true&show_icons=true&theme=tokyonight)
+- 🎓 IT student passionate about programming
+- 🌱 Currently learning and growing my development skills
+- 💡 Love exploring new technologies
+- 🎯 Goal: Contribute more to Open Source projects
 
+## 📊 GitHub Stats
 
-## 🛠 Tech Stack
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kar12522&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kar12522&theme=radical" alt="GitHub Streak" />
+</div>
 
-<div style="display: flex; flex-direction: row; gap: 50px;">
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+## 🛠️ Tech Stack
 
+### Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## 📈 Activity Graph
+[![Karl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kar12522&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🤝 Connect With Me
+<div align="center">
+  <a href="https://github.com/kar12522">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add other social media badges as needed -->
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kar12522&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
 </div>
