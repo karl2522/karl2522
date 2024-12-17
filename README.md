@@ -29,6 +29,9 @@
 
 ## 🤝 Connect With Me
 <div align="center">
+  <a href="https://github.com/karl2522">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=kar12522&color=blueviolet&style=plastic&label=" alt="Profile Views Logo" />
 </div>
 
