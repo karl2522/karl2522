@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/in/jaredkarl2">
+  <a href="https://www.facebook.com/jaredkarl2">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
