@@ -29,13 +29,13 @@
 
 ## 🤝 Connect With Me
 <div align="center">
-  <a href="https://github.com/karl2522">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40";" />
+  <a href="https://github.com/karl2522" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40" style="fill: #181717;" />
   </a>
-  <a href="https://www.facebook.com/in/jaredkarl2">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" alt="LinkedIn" width="40" height="40";" />
+  <a href="https://www.facebook.com/in/jaredkarl2" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" alt="Facebook" width="40" height="40" style="fill: #1877F2;" />
   </a>
-  <a href="https://twitter.com/jaerhead">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" alt="Twitter" width="40" height="40";" />
+  <a href="https://x.com/jaerhead" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" alt="Twitter" width="40" height="40" style="fill: #1DA1F2;" />
   </a>
 </div>
