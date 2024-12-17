@@ -29,11 +29,11 @@
 
 ## 🤝 Connect With Me
 <div align="center">
-  <a href="https://github.com/karl2522">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Add other social media badges as needed -->
+  <img src="https://komarev.com/ghpvc/?username=kar12522&color=blueviolet&style=plastic&label=" alt="Profile Views Logo" />
 </div>
+
+  <!-- Add other social media badges as needed -->
+
 
 ---
 <div align="center">
