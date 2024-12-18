@@ -44,7 +44,7 @@
 
 <!-- Tech Stack with Hover Animation -->
 <h2>
-  <img src="https://cdn.jsdelivr.net/gh/heydrdev/devtools@main/emojis/telegram/hammer-and-wrench.gif" width="25px" height="25px"/>
+ <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
   Tech Stack
 </h2>
 
@@ -83,6 +83,5 @@
   </a>
 </div>
 
-<!-- Animated SVG Line -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"/>
+
 
