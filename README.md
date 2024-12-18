@@ -44,7 +44,7 @@
 
 <!-- Tech Stack with Hover Animation -->
 <h2>
- <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y3FlNmJ0bWx0MW93NzVyYmttNXE1bWRwN2F6ZDV0YnBxbG92eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px"/>
   Tech Stack
 </h2>
 
