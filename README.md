@@ -6,10 +6,7 @@
   <!-- Animated Typing -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=80EEFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there%2C+I'm+Karl!+%F0%9F%91%8B;IT+Student+%7C+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
-  </a>
-
-  <!-- Animated Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=karl2522&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a
 </div>
 
 ## 👨‍💻 About Me
@@ -50,11 +47,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,django,vite,git,vscode,mysql,androidstudio,postman&perline=7" />
   
   <!-- Animated Tech Badges -->
-  <br/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1c1917"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1c1917"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1c1917"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1c1917"/>
+ 
 </div>
 
 ## 🤝 Connect With Me
