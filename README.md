@@ -5,9 +5,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Karl!+%F0%9F%94%A5;%3C%F0%9F%92%BB+IT+Student+%2F%3E;%7B+Developer+in+Progress+%7D" alt="Typing SVG" />
     </a>
   </h1>
-
-  <!-- Animated Decorative Line -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;">
 </div>
 
 ## 👨‍💻 About Me
@@ -39,7 +36,18 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,python,react,github,java,html,css,nodejs,django,vite,git,vscode,mysql,androidstudio,postman&perline=8" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nodejs&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&animation=spin&svgfill=15d8fe">
 </div>
 
 ## 🤝 Connect With Me
@@ -55,7 +63,4 @@
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
-
-<!-- Animated Footer Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;">
 
