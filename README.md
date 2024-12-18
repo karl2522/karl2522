@@ -15,10 +15,9 @@
 
 <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014c08346cf0/images/terminal.gif" width="300">
 
-- 💻 IT student passionate about programming
-- 🌱 Currently learning and growing my development skills
-- 🚀 Love exploring new technologies
-
+- 💻 IT student passionate about programming  
+- 🌱 Currently learning and growing my development skills  
+- 🚀 Love exploring new technologies  
 
 <!-- GitHub Stats with Animation -->
 <h2>
@@ -30,6 +29,11 @@
   <!-- Custom Styled Stats -->
   <a href="https://github.com/karl2522">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karl2522&show_icons=true&title_color=00fff2&text_color=ffffff&icon_color=00fff2&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&custom_title=Karl's+GitHub+Journey"/>
+  </a>
+  
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/karl2522">
+    <img height="180em" src="https://streak-stats.demolab.com?user=karl2522&theme=radical&hide_border=true&background=0d1117&stroke=00fff2&ring=00fff2&fire=00fff2&currStreakLabel=00fff2&sideNums=ffffff&dates=ffffff"/>
   </a>
   
   <!-- Animated Languages Chart -->
@@ -74,11 +78,8 @@
   </a>
  <a href="https://www.facebook.com/jaredkarl2">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Facebook.svg" width="45" height="45" alt="Facebook">
-</a>
+  </a>
   <a href="https://x.com/jaerhead" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="45" height="45" alt="Twitter"/>
   </a>
 </div>
-
-
-
