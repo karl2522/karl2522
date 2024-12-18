@@ -5,9 +5,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00FFF2&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Karl!+%F0%9F%94%A5;%3C%F0%9F%92%BB+IT+Student+%2F%3E;%7B+Developer+in+Progress+%7D" alt="Typing SVG" />
     </a>
   </div>
-
-  <!-- Animated Decorative Line -->
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/assets/line.svg" style="width: 100%;">
 </div>
 
 <!-- About Me Section with Floating Animation -->
