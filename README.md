@@ -18,7 +18,7 @@
 - 💻 IT student passionate about programming
 - 🌱 Currently learning and growing my development skills
 - 🚀 Love exploring new technologies
-- 🎯 Always ready to collaborate on projects
+
 
 <!-- GitHub Stats with Animation -->
 <h2>
