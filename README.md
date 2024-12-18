@@ -10,9 +10,6 @@
 
   <!-- Animated Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=karl2522&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-
-  <!-- Animated Particles Background (place this div where you want the particles) -->
-  <div id="particles-js" style="position: absolute; width: 100%; height: 100%; z-index: -1;"></div>
 </div>
 
 ## 👨‍💻 About Me
@@ -38,7 +35,11 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karl2522&theme=react-dark&hide_border=true&area=true"/>
   
   <!-- Animated Contribution Snake -->
-  <img src="https://github.com/karl2522/karl2522/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karl2522/karl2522/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karl2522/karl2522/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karl2522/karl2522/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## 🛠️ Tech Stack
@@ -72,28 +73,3 @@
 
 <!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:84fab0,100:8fd3f4&height=120&section=footer"/>
-
-<!-- Add this script at the end of your README to enable particles -->
-<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-<script>
-  particlesJS("particles-js", {
-    particles: {
-      number: { value: 80 },
-      color: { value: "#80EEFF" },
-      shape: { type: "circle" },
-      opacity: { value: 0.5 },
-      size: { value: 3 },
-      line_linked: {
-        enable: true,
-        distance: 150,
-        color: "#80EEFF",
-        opacity: 0.4,
-        width: 1
-      },
-      move: {
-        enable: true,
-        speed: 6
-      }
-    }
-  });
-</script>
