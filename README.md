@@ -72,9 +72,9 @@
   <a href="https://github.com/karl2522" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="45" height="45" alt="GitHub"/>
   </a>
-  <a href="https://www.facebook.com/jaredkarl2" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Facebook.svg" width="45" height="45" alt="Facebook"/>
-  </a>
+ <a href="https://www.facebook.com/jaredkarl2">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Facebook.svg" width="45" height="45" alt="Facebook">
+</a>
   <a href="https://x.com/jaerhead" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="45" height="45" alt="Twitter"/>
   </a>
