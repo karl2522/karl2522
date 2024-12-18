@@ -1,6 +1,3 @@
-<!-- Header Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00fff2,100:00ff95&height=120&section=header&animation=fadeIn&text=Welcome&fontColor=ffffff&fontSize=60&textBg=true"/>
-
 <div align="center">
   <!-- Animated Greeting -->
   <div style="margin-bottom: 20px;">
@@ -43,13 +40,6 @@
   
   <!-- Animated Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karl2522&bg_color=0d1117&color=00fff2&line=00ff95&point=ffffff&area=true&hide_border=true"/>
-  
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karl2522/karl2522/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karl2522/karl2522/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/karl2522/karl2522/output/github-contribution-grid-snake.svg"/>
-  </picture>
 </div>
 
 <!-- Tech Stack with Hover Animation -->
@@ -59,20 +49,35 @@
 </h2>
 
 <div align="center">
-  <!-- Tech Icons with Hover Effect -->
-  <div style="background: #0d1117; padding: 25px; border-radius: 6px;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <!-- Animated Tech Icons -->
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" style="margin:5px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" style="margin:5px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" style="margin:5px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React" style="margin:5px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60" alt="GitHub" style="margin:5px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java" style="margin:5px"/>
   </div>
   
-  <!-- Additional Tech Icons with Animation -->
   <div style="margin-top: 20px;">
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,django,vite,git,vscode,mysql,androidstudio,postman&perline=5" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" style="margin:5px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" style="margin:5px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" style="margin:5px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="60" height="60" alt="Django" style="margin:5px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git" style="margin:5px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode" style="margin:5px"/>
   </div>
+
+  <style>
+    /* Add animation to tech icons */
+    div img {
+      transition: transform 0.3s ease-in-out;
+    }
+    div img:hover {
+      transform: scale(1.2) rotate(360deg);
+      transition: transform 0.6s ease-in-out;
+    }
+  </style>
 </div>
 
 <!-- Connect Section with Animated Icons -->
@@ -83,18 +88,15 @@
 
 <div align="center">
   <a href="https://github.com/karl2522" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="45" height="45" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   </a>
   <a href="https://www.facebook.com/jaredkarl2" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Facebook.svg" width="45" height="45" alt="Facebook"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="45" height="45" alt="Facebook"/>
   </a>
   <a href="https://x.com/jaerhead" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="45" height="45" alt="Twitter"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="45" height="45" alt="Twitter"/>
   </a>
 </div>
-
-<!-- Footer Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00fff2,100:00ff95&height=120&section=footer&animation=fadeIn"/>
 
 <!-- Animated SVG Line -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"/>
