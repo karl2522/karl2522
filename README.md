@@ -1,5 +1,5 @@
 <!-- Header Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00fff2,100:00ff95&height=120&section=header&animation=fadeIn&text=Welcome&fontColor=ffffff&fontSize=60&textBg=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:00fff2,100:00ff95&stroke=00fff2&strokeWidth=3&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
   <!-- Animated Greeting -->
@@ -94,7 +94,7 @@
 </div>
 
 <!-- Footer Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00fff2,100:00ff95&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:00fff2,100:00ff95&stroke=00fff2&strokeWidth=3&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- Animated SVG Line -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"/>
