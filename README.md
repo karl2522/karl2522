@@ -1,85 +1,55 @@
 <div align="center">
-  <!-- Animated Greeting -->
-  <div style="margin-bottom: 20px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00FFF2&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Karl!+%F0%9F%94%A5;%3C%F0%9F%92%BB+IT+Student+%2F%3E;%7B+Developer+in+Progress+%7D" alt="Typing SVG" />
-    </a>
-  </div>
+
+# Hi, I'm Karl
+
+### IT Student & Developer
+
 </div>
 
-<!-- About Me Section with Floating Animation -->
-<h2>
-  <img src="https://cdn.jsdelivr.net/gh/heydrdev/devtools@main/emojis/telegram/technologist.gif" width="25px" height="25px"/>
-  About Me
-</h2>
+---
 
-<img align="right" src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014c08346cf0/images/terminal.gif" width="300">
+## About Me
 
-- 💻 IT student passionate about programming  
-- 🌱 Currently learning and growing my development skills  
-- 🚀 Love exploring new technologies  
+I'm an IT student focused on building clean, practical software. I enjoy working across the stack, learning new tools, and turning ideas into working products.
 
-<!-- GitHub Stats with Animation -->
-<h2>
-  <img src="https://cdn.jsdelivr.net/gh/heydrdev/devtools@main/emojis/telegram/bar-chart.gif" width="25px" height="25px"/>
-  GitHub Stats
-</h2>
+- Building projects with modern web and software technologies
+- Always exploring better ways to write and structure code
+- Open to collaboration and new opportunities
+
+## Tech Stack
 
 <div align="center">
-  <!-- Custom Styled Stats -->
-  <a href="https://github.com/karl2522">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karl2522&show_icons=true&title_color=00fff2&text_color=ffffff&icon_color=00fff2&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&custom_title=Karl's+GitHub+Journey"/>
-  </a>
-  
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/karl2522">
-    <img height="180em" src="https://streak-stats.demolab.com?user=karl2522&theme=radical&hide_border=true&background=0d1117&stroke=00fff2&ring=00fff2&fire=00fff2&currStreakLabel=00fff2&sideNums=ffffff&dates=ffffff"/>
-  </a>
-  
-  <!-- Animated Languages Chart -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl2522&layout=compact&title_color=00fff2&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6"/>
-  
-  <!-- Animated Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karl2522&bg_color=0d1117&color=00fff2&line=00ff95&point=ffffff&area=true&hide_border=true"/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 </div>
 
-<!-- Tech Stack with Hover Animation -->
-<h2>
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN4Y3FlNmJ0bWx0MW93NzVyYmttNXE1bWRwN2F6ZDV0YnBxbG92eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px"/>
-  Tech Stack
-</h2>
+## GitHub Stats
 
 <div align="center">
-  <!-- Tech Icons with Hover Effect -->
-  <div style="background: #0d1117; padding: 25px; border-radius: 6px;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  </div>
-  
-  <!-- Additional Tech Icons with Animation -->
-  <div style="margin-top: 20px;">
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,django,vite,git,vscode,mysql,androidstudio,postman&perline=5" />
-  </div>
+
+![Karl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karl2522&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karl2522&layout=compact&hide_border=true&langs_count=6&theme=transparent)
+
 </div>
 
-<!-- Connect Section with Animated Icons -->
-<h2>
-  <img src="https://cdn.jsdelivr.net/gh/heydrdev/devtools@main/emojis/telegram/handshake.gif" width="25px" height="25px"/>
-  Connect With Me
-</h2>
+## Connect
 
 <div align="center">
-  <a href="https://github.com/karl2522" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="45" height="45" alt="GitHub"/>
-  </a>
- <a href="https://www.facebook.com/jaredkarl2">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Facebook.svg" width="45" height="45" alt="Facebook">
-  </a>
-  <a href="https://x.com/jaerhead" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="45" height="45" alt="Twitter"/>
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/karl2522)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/jaredkarl2)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jaerhead)
+
 </div>
