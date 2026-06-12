@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2A78,100:2535A0&height=200&section=header&text=Karl%20Jared%20Omen&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="Karl Jared Omen — Full-Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2A78,100:2535A0&height=200&section=header&text=Full-Stack%20Developer&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Full-Stack Developer" />
 </div>
 
 <!-- TAGLINE -->
