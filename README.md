@@ -8,14 +8,6 @@
 
 ---
 
-## About Me
-
-I'm an IT student focused on building clean, practical software. I enjoy working across the stack, learning new tools, and turning ideas into working products.
-
-- Building projects with modern web and software technologies
-- Always exploring better ways to write and structure code
-- Open to collaboration and new opportunities
-
 ## Tech Stack
 
 <div align="center">
