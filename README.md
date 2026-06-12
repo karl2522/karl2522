@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Karl
-
-### IT Student & Developer
+# Full-Stack Developer
 
 </div>
 
