@@ -13,7 +13,9 @@
 
 ## 👋 About Me
 
-I build software that solves real problems. With full-stack experience and a strong interest in modern technology, I bring AI features into the applications I build so they are smarter, more scalable, and more useful to the people who rely on them.
+I build custom software for businesses. From booking and point-of-sale systems to internal dashboards and inventory tools, I design and develop solutions around how each business actually operates, so teams can work faster and focus on growth.
+
+I handle projects end to end, from interface design to APIs and databases, and I bring AI features into the products I build where they add real value.
 
 <table>
   <tr>
