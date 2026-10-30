@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Jared Karl Omen</h1>
-  <p><b>Full-Stack Developer</b></p>
+  <p><b>Full-Stack Developer · AI Automation · UI/UX Designer</b></p>
   <p>I build professional websites, SaaS products, and business-grade systems<br/>that support growth, automate workflows, and help teams launch faster.</p>
   <p>
     <a href="https://jaredomen.com"><img src="https://img.shields.io/badge/Portfolio-jaredomen.com-2535A0?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
