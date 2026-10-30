@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://jaredomen.com/images/omenLogo.png" width="120" alt="Jared Karl Omen" />
   <h1>Jared Karl Omen</h1>
   <p><b>Full-Stack Developer</b></p>
   <p>I build professional websites, SaaS products, and business-grade systems<br/>that support growth, automate workflows, and help teams launch faster.</p>
