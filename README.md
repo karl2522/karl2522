@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Jared Karl Omen</h1>
+  <h1>Jared Karl A. Omen</h1>
   <p><b>Full-Stack Developer · AI Automation · UI/UX Designer</b></p>
   <p>I build professional websites, SaaS products, and business-grade systems<br/>that support growth, automate workflows, and help teams launch faster.</p>
   <p>
