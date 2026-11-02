@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Jared Karl A. Omen</h1>
   <p><b>Full-Stack Developer · AI Automation · UI/UX Designer</b></p>
-  <p>I build professional websites, SaaS products, and business-grade systems<br/>that support growth, automate workflows, and help teams launch faster.</p>
+  <p>I build professional websites, SaaS products, and business-grade systems<br/>that support growth, automate workflows, and help businesses grow.</p>
   <p>
     <a href="https://jaredomen.com"><img src="https://img.shields.io/badge/Portfolio-jaredomen.com-2535A0?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/jared-karl-omen-11131a386/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
