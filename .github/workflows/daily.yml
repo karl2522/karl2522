@@ -1,0 +1,24 @@
+name: daily
+on:
+  schedule:
+    - cron: "5 16 * * *"   # 00:05 Asia/Manila
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Manila
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git config user.name "Karl"
+          git config user.email "joredomen@gmail.com"
+          today=$(date +%Y-%m-%d)
+          for i in 1 2 3 4 5; do
+            if tail -n1 README.md | grep -q '^<!-- updated: '; then sed -i '$ d' README.md; fi
+            printf '%s\n' "<!-- updated: $today #$i -->" >> README.md
+            git commit -qam "Update README.md"
+          done
+          git push
