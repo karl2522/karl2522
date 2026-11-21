@@ -79,4 +79,4 @@ I'm always open to new projects, creative opportunities, and collaborations. Hav
   <a href="https://jaredomen.com/contact"><img src="https://img.shields.io/badge/Book%20a%20Call-jaredomen.com%2Fcontact-2535A0?style=flat-square&logo=googlecalendar&logoColor=white" alt="Book a Call" /></a>
   <a href="mailto:joredomen@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-1E2A78?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-<!-- updated: 2026-11-21 #5 -->
+<!-- updated: 2026-11-22 #1 -->
